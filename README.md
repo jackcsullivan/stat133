@@ -1,1 +1,1 @@
-# stat133
+# Jack Sullivan's stat133 public repo
